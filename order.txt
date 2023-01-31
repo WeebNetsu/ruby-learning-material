@@ -1,0 +1,8 @@
+1. Hello World
+2. Variables & Data Types
+7. Math
+6. Arrays
+9. If statements
+4. Methods [if statements]
+5. Ranges [arrays, loops]
+8. OOP [Methods]
