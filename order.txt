@@ -4,6 +4,7 @@
 6. Arrays
 9. If statements
 10. Case statements
+11. Loops [if statements]
 4. Methods [if statements]
 5. Ranges [arrays, loops]
 8. OOP [Methods]
