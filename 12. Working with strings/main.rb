@@ -57,6 +57,8 @@ say(i[4..6])
 
 # return the index at which this word can be found at
 say(i.index('still'))
+# returns true if i has this word in the string
+say(i.include?('still'))
 
 j = 'Jack'
 
@@ -106,3 +108,8 @@ say(n.downcase)
 
 # swap all capital and lowercase letters
 say('This is tHe cAPItal case SWaP'.swapcase)
+
+o = '    some     text    '
+
+# remove empty space at beginning and end of string
+say(o.strip << '--')
