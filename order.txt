@@ -2,13 +2,14 @@
 2. Variables & Data Types
 7. Math
 6. Arrays
-12. Working with strings
+12. Working with strings [arrays]
 9. If statements
 10. Case statements
 11. Loops [if statements]
 4. Methods [if statements]
 5. Ranges [arrays, loops]
 8. OOP [Methods]
+13. Working with files [arrays]
 
 Skipped:
 3. Variable Scopes
